@@ -1,0 +1,14 @@
+{
+  "name": "sample-script-separate-dirs-by-sd-models",
+  "module": "main.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chilled-lemon": "^0.0.6"
+  }
+}
